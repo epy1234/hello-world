@@ -1,3 +1,3 @@
-<h1> Hello, My name is Ales !!! </h1>
+<h1> Hello, My name is Alex !!! </h1>
 <h2> I love DevOps </h2>
-<h3> Thanks for your time :)h3>
+<h3> Thanks for your time :)</h3>
